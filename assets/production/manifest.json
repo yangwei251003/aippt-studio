@@ -1,0 +1,1649 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-26T12:17:37.820Z",
+  "sourceRoot": "assets/production/masters",
+  "outputRoot": "assets/production/generated",
+  "sizes": [
+    16,
+    24,
+    32,
+    64,
+    128,
+    256,
+    512
+  ],
+  "assets": [
+    {
+      "id": "logo-folded-signal-adobe",
+      "master": "assets/production/masters/logo/folded-signal-adobe.svg",
+      "masterSha256": "6fad63d9e42e94eaa6cc3bd06a35732f0c0f375085bef1e48727bd4175395e33",
+      "masterWidth": 2048,
+      "masterHeight": 1982,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/logo-folded-signal-adobe/logo-folded-signal-adobe.transparent.png",
+          "width": 2048,
+          "height": 1982,
+          "bytes": 279398,
+          "sha256": "00a74041f1870ef10617da8e4a8faeb64729fcabc63ffb89420bef4c6503ecb6"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/logo-folded-signal-adobe/logo-folded-signal-adobe.webp",
+          "width": 2048,
+          "height": 1982,
+          "bytes": 124908,
+          "sha256": "1bce0333c410b1c63c9e26a3ebf75d039a63a2b9887c70193d81a234d5e4529a"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/logo-folded-signal-adobe/logo-folded-signal-adobe.avif",
+          "width": 2048,
+          "height": 1982,
+          "bytes": 73295,
+          "sha256": "164a646fde859bf5ada517d1df6016226ff43d65e3ebcf878b51c4cc66b3fc88"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/logo-folded-signal-adobe/logo-folded-signal-adobe-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 733,
+          "sha256": "e9a664e62a2325726270abd3ce9ce6e0fe3b980ecb8dba1a3fdf9acc3bb91a80"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/logo-folded-signal-adobe/logo-folded-signal-adobe-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1338,
+          "sha256": "026940573504420ca7725b79d4ec96cd153b9ef604994707bc27c326d385b3f2"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/logo-folded-signal-adobe/logo-folded-signal-adobe-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 2034,
+          "sha256": "de1556c2b06e40299b54be822125e321c4c4985a8c030272b9d4af08d2cda631"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/logo-folded-signal-adobe/logo-folded-signal-adobe-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 5114,
+          "sha256": "8968443b6d7691deb6a534f2990c6fcfe1aecef0b3954a88ae2987ebd3bf3962"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/logo-folded-signal-adobe/logo-folded-signal-adobe-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 11803,
+          "sha256": "45e23c800760e0b21c762996324230474d3a43b67d70e12e2880ab9c60c915f1"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/logo-folded-signal-adobe/logo-folded-signal-adobe-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 24533,
+          "sha256": "93a265c5dd41e66d5ae1dac9e22a8b5a33aeddf3054281ed713f7ed8ed039245"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/logo-folded-signal-adobe/logo-folded-signal-adobe-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 52499,
+          "sha256": "c48e6ed1c25f9dbf6f7e7740b328b96962eab92c1615fa68b7710e36f9164d99"
+        }
+      ]
+    },
+    {
+      "id": "pazhou-pazhou-far-city",
+      "master": "assets/production/masters/pazhou/pazhou-far-city.png",
+      "masterSha256": "bcf8b7be5e4a27f92fd0cf1b37cff1181a6f4722b55a0b0b8a818b2352e6d1c8",
+      "masterWidth": 1672,
+      "masterHeight": 941,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/pazhou-pazhou-far-city/pazhou-pazhou-far-city.transparent.png",
+          "width": 1672,
+          "height": 941,
+          "bytes": 256762,
+          "sha256": "d99b26b79ac95b4251eeae3e6b3e570ca72a21a57a7f1cbe4456ebfb12999c6f"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/pazhou-pazhou-far-city/pazhou-pazhou-far-city.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 59060,
+          "sha256": "9837373cc31369d3f6801886492238c9a91cc75cc6b868ce85e54d68f9a7cdcd"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/pazhou-pazhou-far-city/pazhou-pazhou-far-city.avif",
+          "width": 1672,
+          "height": 941,
+          "bytes": 35004,
+          "sha256": "0f60a23f41050a4a1f15e50744b67c8ea9feffaac5671ebc8676813bce48bc51"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/pazhou-pazhou-far-city/pazhou-pazhou-far-city-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 303,
+          "sha256": "ba2e309f84db1bd94bd0bc62199774850bc69a62a9ce927ada9915c6adc2fe0c"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/pazhou-pazhou-far-city/pazhou-pazhou-far-city-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 418,
+          "sha256": "30ee6b5f63c2c211d04421abd68746da37d9a90accdac21fcd8277903d41f1ce"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/pazhou-pazhou-far-city/pazhou-pazhou-far-city-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 595,
+          "sha256": "20e93ea28e2ff70dc453dabb31ea7bad14cac7efdd4f6e2a04aed7d19205e284"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/pazhou-pazhou-far-city/pazhou-pazhou-far-city-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 1285,
+          "sha256": "49c22e98abdd6e007df16fc9e3ca905736023b9477cc6eb6abddb50d2e9b3add"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/pazhou-pazhou-far-city/pazhou-pazhou-far-city-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 3316,
+          "sha256": "cabe21b4e2f09a9de3e7ea81d6d48f2b461ab52bb6b33f89523eda89b6a675bf"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/pazhou-pazhou-far-city/pazhou-pazhou-far-city-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 9939,
+          "sha256": "278752f5313ff6ae7293f94e9c8deb69bb8a9988d20ff52f11ff6b9b199734ea"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/pazhou-pazhou-far-city/pazhou-pazhou-far-city-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 32226,
+          "sha256": "d4cb9689e1e5d15f52a3ee7f12ca4928f5416df83334952aaf5b5915ba5c5b6f"
+        }
+      ]
+    },
+    {
+      "id": "pazhou-pazhou-foreground",
+      "master": "assets/production/masters/pazhou/pazhou-foreground.png",
+      "masterSha256": "f5c5130bfe73b8214089061317bb3ae746d3ba2bedab018231f30472180b7fa1",
+      "masterWidth": 1672,
+      "masterHeight": 941,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/pazhou-pazhou-foreground/pazhou-pazhou-foreground.transparent.png",
+          "width": 1672,
+          "height": 941,
+          "bytes": 709582,
+          "sha256": "4115748e38e50049225aed8c91535607bc841d7f497d52c8b4d69ccc82502866"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/pazhou-pazhou-foreground/pazhou-pazhou-foreground.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 124186,
+          "sha256": "9c90418443a2bd987d55feed359b2a407175c02b761ba6972f09e9fe0c582438"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/pazhou-pazhou-foreground/pazhou-pazhou-foreground.avif",
+          "width": 1672,
+          "height": 941,
+          "bytes": 82357,
+          "sha256": "c0b2b623f640da373943b78fca5664952f55f03ec81f842f82f8d125e5b6a8f6"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/pazhou-pazhou-foreground/pazhou-pazhou-foreground-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 252,
+          "sha256": "20e145212661459c1e30e30f62dfdb3ef429f79ec691854bdbdb327302999d3a"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/pazhou-pazhou-foreground/pazhou-pazhou-foreground-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 434,
+          "sha256": "b6c61a64260c86cbc97bf63f753155eee865417ac776ecbc94759325601dd279"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/pazhou-pazhou-foreground/pazhou-pazhou-foreground-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 608,
+          "sha256": "91ab07260000dfbc1f588d400690e193d967bc318b31c4b7343cd43f7ea6f417"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/pazhou-pazhou-foreground/pazhou-pazhou-foreground-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 1670,
+          "sha256": "bf7fa8520d4154e40fab070d14c9dff38d983eef0da2bd89087b8986baedfe01"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/pazhou-pazhou-foreground/pazhou-pazhou-foreground-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 5517,
+          "sha256": "54493fa62f5a3e8c36d71e64b2b24e5aec95134fa7564c18dee4021acb05fbcc"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/pazhou-pazhou-foreground/pazhou-pazhou-foreground-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 19925,
+          "sha256": "1fd2c1369dfdcf1a4e14dbbaf7c2e67fae5c1596287e4b2670c41b03d19b3262"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/pazhou-pazhou-foreground/pazhou-pazhou-foreground-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 73814,
+          "sha256": "83184b7a57e487a2299a9b8835c109892ef39b91f9cecded4299809fb54d1efe"
+        }
+      ]
+    },
+    {
+      "id": "pazhou-pazhou-master",
+      "master": "assets/production/masters/pazhou/pazhou-master.png",
+      "masterSha256": "9d861c806d1bb31257f0fdb8bc1a8f26c706a1c63ab49cbac835762e1809e1f7",
+      "masterWidth": 1672,
+      "masterHeight": 941,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/pazhou-pazhou-master/pazhou-pazhou-master.transparent.png",
+          "width": 1672,
+          "height": 941,
+          "bytes": 3215200,
+          "sha256": "3b0fb0ef1a8bebb8b8560863f15cfc1404163bb807d0096d3ae2cbf961273122"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/pazhou-pazhou-master/pazhou-pazhou-master.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 333234,
+          "sha256": "42124cfba04bd46bff53caa55b0d04c64e9cc7232325f3c51838db08183bc966"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/pazhou-pazhou-master/pazhou-pazhou-master.avif",
+          "width": 1672,
+          "height": 941,
+          "bytes": 258392,
+          "sha256": "7831e76e6dc106875ec7f83504b5c4a072e0ed8c2cde984b3265e836c4e3224e"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/pazhou-pazhou-master/pazhou-pazhou-master-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 592,
+          "sha256": "b20bfb04b80c7f835126d0510802a366d105dd85802d66f14fca3bd85e13e5c9"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/pazhou-pazhou-master/pazhou-pazhou-master-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1167,
+          "sha256": "623ac7eacd9ba191707cc2253fbf738ba3b4c485ef7812e93b6025347663d3bd"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/pazhou-pazhou-master/pazhou-pazhou-master-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1845,
+          "sha256": "7f192b5a236894f0145af554acbe882f430ea8d8824060f4faf8fdc4ecdee55d"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/pazhou-pazhou-master/pazhou-pazhou-master-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6476,
+          "sha256": "14f7926c6cf34a3c7acc10ef58521fcb16c47775e93d26c24ea1a75a2d355024"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/pazhou-pazhou-master/pazhou-pazhou-master-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 23267,
+          "sha256": "24ac44f783edd04188f835c82604555de21f2d536a74969976019801268f0c1a"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/pazhou-pazhou-master/pazhou-pazhou-master-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 82969,
+          "sha256": "b42701b93796bddaa3d60f0befdf62fcaa227cbf47ebbbc6d708094a7839d29c"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/pazhou-pazhou-master/pazhou-pazhou-master-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 319764,
+          "sha256": "b3e6488cac88cc26f4e875be18f203bcc35de7558659b906158daeab7ace13cd"
+        }
+      ]
+    },
+    {
+      "id": "pazhou-pazhou-mid-city",
+      "master": "assets/production/masters/pazhou/pazhou-mid-city.png",
+      "masterSha256": "8cc75415230b920ca775b9ba95346bbe6bfd181b9ef6dbd04e07d6c0abb4b0a5",
+      "masterWidth": 1672,
+      "masterHeight": 941,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/pazhou-pazhou-mid-city/pazhou-pazhou-mid-city.transparent.png",
+          "width": 1672,
+          "height": 941,
+          "bytes": 1235156,
+          "sha256": "a02d0d2138f9d2df238faec38d075aa6f0e0145bbf7cd8e192dfbd5f1092920c"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/pazhou-pazhou-mid-city/pazhou-pazhou-mid-city.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 184242,
+          "sha256": "ae01bdf4a29dadc35e1e2bde10961d55f62e0053e0c045fe5ce6f07f5079c7c1"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/pazhou-pazhou-mid-city/pazhou-pazhou-mid-city.avif",
+          "width": 1672,
+          "height": 941,
+          "bytes": 127015,
+          "sha256": "8c1c22c20a454f5371424da2ae31e23de5a7386fcfb29d55cbbb711553c3eab1"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/pazhou-pazhou-mid-city/pazhou-pazhou-mid-city-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 432,
+          "sha256": "a802c7ce75b809def619ed5516d85c25fda84937f662474d55b7814425bd631a"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/pazhou-pazhou-mid-city/pazhou-pazhou-mid-city-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 755,
+          "sha256": "e18a2a86f8fe7cc503607706a8aa1cf4d1ce29fdffb2255d9db741a905f919ae"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/pazhou-pazhou-mid-city/pazhou-pazhou-mid-city-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1106,
+          "sha256": "2dac3ee1977fceef29fc37834dc0ea7ea49f22d5fea4597eb15d2bd258a3287f"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/pazhou-pazhou-mid-city/pazhou-pazhou-mid-city-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 3229,
+          "sha256": "742353ce1d51bfeaa7c2d271bf1cc8a9b466aff702acc08ac4761c6cb87396c0"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/pazhou-pazhou-mid-city/pazhou-pazhou-mid-city-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 10500,
+          "sha256": "a6d6ea2d4ec7e61c399c42818e3638f5de2ca97de1939aa4678d6eb19c596279"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/pazhou-pazhou-mid-city/pazhou-pazhou-mid-city-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 36707,
+          "sha256": "b4d0f4c1aa0d1479b7137c87c650e8936f47fbd1d4987d49a153c7df31e742be"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/pazhou-pazhou-mid-city/pazhou-pazhou-mid-city-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 129860,
+          "sha256": "ceb3cfbea7401a23e32fa9fe5471d808f4049f58ffc9a91e962bac9630f8a1ac"
+        }
+      ]
+    },
+    {
+      "id": "pazhou-pazhou-river",
+      "master": "assets/production/masters/pazhou/pazhou-river.png",
+      "masterSha256": "4c7b3ecd430311883077747a715b426242762a7a5876cf88c15d0558161a2fa3",
+      "masterWidth": 1672,
+      "masterHeight": 941,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/pazhou-pazhou-river/pazhou-pazhou-river.transparent.png",
+          "width": 1672,
+          "height": 941,
+          "bytes": 1560428,
+          "sha256": "61b65af0c636c2b9a96b887e7cbc14bff3b78ca59e2f48c2d7db4960533a4943"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/pazhou-pazhou-river/pazhou-pazhou-river.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 217386,
+          "sha256": "d68b276bc15f44725e928f25c1b1f18cf06b006eac20d74d66491d773c6c88e2"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/pazhou-pazhou-river/pazhou-pazhou-river.avif",
+          "width": 1672,
+          "height": 941,
+          "bytes": 134870,
+          "sha256": "45358b6bbed3aa06731c7851eec246c743b13fbc403d536eacd629a8b97c54c2"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/pazhou-pazhou-river/pazhou-pazhou-river-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 505,
+          "sha256": "3399bcf04ec0b15d73760cb2d559ada24619e14d02a922d6767d3e4857720ad6"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/pazhou-pazhou-river/pazhou-pazhou-river-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 838,
+          "sha256": "69cc840c2b833cd515dff5bb9ddd7e981b011a1331f7e045df0a543a9d1de61d"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/pazhou-pazhou-river/pazhou-pazhou-river-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1237,
+          "sha256": "b15add5beefbaacc0a5259a51d2480f3d6d9bd3a843bf9abdf6437ca7ba86959"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/pazhou-pazhou-river/pazhou-pazhou-river-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 3388,
+          "sha256": "96ada081a22a8073400c558018d7cf6811700c061203b42419c6033bdce57793"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/pazhou-pazhou-river/pazhou-pazhou-river-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 12438,
+          "sha256": "ef017a5a8944be048bea1e0be694e21f7f41d829e56bed9340ee3412536dea6a"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/pazhou-pazhou-river/pazhou-pazhou-river-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 49847,
+          "sha256": "7dcf46cc805a48a6b95d6a4ff5e894f9d4e05af9164645d22d2bbca948132a91"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/pazhou-pazhou-river/pazhou-pazhou-river-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 174256,
+          "sha256": "60c9af8b25628fc8287b0adc15aab13f20fb7462043ac406ccc9d22427286dcf"
+        }
+      ]
+    },
+    {
+      "id": "pazhou-pazhou-sky",
+      "master": "assets/production/masters/pazhou/pazhou-sky.png",
+      "masterSha256": "98b69cdfe98ed0718ba7931a1ebfeba70eb144358af5b581584599f241826b27",
+      "masterWidth": 1672,
+      "masterHeight": 941,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/pazhou-pazhou-sky/pazhou-pazhou-sky.transparent.png",
+          "width": 1672,
+          "height": 941,
+          "bytes": 1633917,
+          "sha256": "f7558ec4c63d36c5d43e321f00dbb3cb37daf8fa560c082851c0099930cae6ed"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/pazhou-pazhou-sky/pazhou-pazhou-sky.webp",
+          "width": 1672,
+          "height": 941,
+          "bytes": 23092,
+          "sha256": "9b4c8520a6bde1efef9296472d4435e1f01381b7ee13efbca0e4972e496ab496"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/pazhou-pazhou-sky/pazhou-pazhou-sky.avif",
+          "width": 1672,
+          "height": 941,
+          "bytes": 19233,
+          "sha256": "360c3674ddf720af3a1aad1c5626d6189cbb7eb18c464d84374114a054213c9f"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/pazhou-pazhou-sky/pazhou-pazhou-sky-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 529,
+          "sha256": "7fe22d039f3d7d1e706d31ee8b7821c57cec29ec5aed2a37eed8881f6079cc14"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/pazhou-pazhou-sky/pazhou-pazhou-sky-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 962,
+          "sha256": "07bc49d6b40b7bca908d12639e643545797c70b262e7a92cb30736a8612324d5"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/pazhou-pazhou-sky/pazhou-pazhou-sky-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1439,
+          "sha256": "37aed9f962674d39cbcf79bd64fd5725b09a6490f576efd822d482e8f44fe46f"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/pazhou-pazhou-sky/pazhou-pazhou-sky-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 4221,
+          "sha256": "f6006471ff068c939aefe8a217bf7cdc7f2ee744dde82a0056e5c3a161b5878d"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/pazhou-pazhou-sky/pazhou-pazhou-sky-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 13562,
+          "sha256": "ab3db23c8a0efd65c3d24d42f0bfe734670dc2741981872e3daf9dc4920f6637"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/pazhou-pazhou-sky/pazhou-pazhou-sky-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 44556,
+          "sha256": "e3752fd499bf9b7d469e2b5f0f6c613a7c604ea82c9b7c80713b47060a8b703f"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/pazhou-pazhou-sky/pazhou-pazhou-sky-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 170502,
+          "sha256": "42f43383539951bf89a2c6be704ab4bcbc8b8313b3dd9b35d088f9aac15d1ddd"
+        }
+      ]
+    },
+    {
+      "id": "sage-sage-checking",
+      "master": "assets/production/masters/sage/sage-checking.png",
+      "masterSha256": "4690a4eb1e4709d1f6b57fe00fb1c759b5c11ee75a5460e853eb1e784196cca6",
+      "masterWidth": 1254,
+      "masterHeight": 1254,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/sage-sage-checking/sage-sage-checking.transparent.png",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 1047844,
+          "sha256": "33379604096a379decd5afd55b756ae2f2c216ac75b66e410fff512862bb1b9c"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/sage-sage-checking/sage-sage-checking.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 104960,
+          "sha256": "18db607a0205ddd4de26b8581832f95d197dcca9cf635da501389cf869514822"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/sage-sage-checking/sage-sage-checking.avif",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 66835,
+          "sha256": "6041488e1bcd2926d832478a82180d2f145035f381eb2684a8bdd44184052cff"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/sage-sage-checking/sage-sage-checking-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 632,
+          "sha256": "cbf3b8b8f8782470413e9c84a6283c9512cff03507a4a1fda0a1a2e13574b3a1"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/sage-sage-checking/sage-sage-checking-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1080,
+          "sha256": "970ddfb0a5d9e6690b05b6687167d8886e249319ab66cdac0b28248dce591c32"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/sage-sage-checking/sage-sage-checking-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1651,
+          "sha256": "762f0ce7311e5ebcdb88f0683adaff5931d36717e3e05ae77f5da11751844dbb"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/sage-sage-checking/sage-sage-checking-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 5047,
+          "sha256": "467198c96af5f54bbceb648cc3f09965d5e69a80e42f2e900dfd99725230f280"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/sage-sage-checking/sage-sage-checking-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 17008,
+          "sha256": "6683602a818b9c97d6c205c57fc62f47e6c503c5baafee76d1bf7e7782a14cd6"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/sage-sage-checking/sage-sage-checking-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 58428,
+          "sha256": "59c070d5c38ccfbfaa3cecc15cf12bf72d595188e63d68f0f6ac47e6d6b79c08"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/sage-sage-checking/sage-sage-checking-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 203495,
+          "sha256": "31ed84f47752d001077b756ecdaf7da77dd0b3de18127f060a778e2b184aa37a"
+        }
+      ]
+    },
+    {
+      "id": "sage-sage-composing",
+      "master": "assets/production/masters/sage/sage-composing.png",
+      "masterSha256": "827b72cfcb81d707e0a3cd6d1cc3a9b276e980414d0494915906fde9b1a9c086",
+      "masterWidth": 1254,
+      "masterHeight": 1254,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/sage-sage-composing/sage-sage-composing.transparent.png",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 1252633,
+          "sha256": "1a5a0875a0d650cfb545b3e4d5ca871abb7c319868c90c6c7965d6d0f32e508a"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/sage-sage-composing/sage-sage-composing.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 129556,
+          "sha256": "113d5a86fb01e4bc22368a628bb2279b5ec878a8fbfdb4dbe7ccf7676fba39ca"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/sage-sage-composing/sage-sage-composing.avif",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 80117,
+          "sha256": "697ea254abbb02a878378ddbdc4cd5a56596f9fd181d60c8928e3cdb3a258334"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/sage-sage-composing/sage-sage-composing-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 685,
+          "sha256": "8cab4c18bb8993ef475a8ca3c81267dbd0d284f6ac01008b4920e0053cf96762"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/sage-sage-composing/sage-sage-composing-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1220,
+          "sha256": "6869aafd96ba25b61683a18c5c0e8ad87850b34efa4b04b4b43d5ce3ef3c5b70"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/sage-sage-composing/sage-sage-composing-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1906,
+          "sha256": "180df924c5bfe09b41a67655a57bad918b4b3c5c9908d6efc12098bfc6e1bead"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/sage-sage-composing/sage-sage-composing-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 5786,
+          "sha256": "f6c600f2b30cadb5994892d830182cbd1b00e70b2c2d02c512114baee2cdae91"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/sage-sage-composing/sage-sage-composing-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 19623,
+          "sha256": "3a4c131ba88e4267adfffeb368df3c36122b7e1469171fceece8c074233bd539"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/sage-sage-composing/sage-sage-composing-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 68028,
+          "sha256": "94a9eb325c9e0a7142aa1c3cc42794b207cc23d1c69e3eaaf916038a6704aec6"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/sage-sage-composing/sage-sage-composing-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 236941,
+          "sha256": "d1e1ca4d2c65948ef9750bb3b2bc6ec3006fa49711f73028935fd177c47c30a3"
+        }
+      ]
+    },
+    {
+      "id": "sage-sage-idle",
+      "master": "assets/production/masters/sage/sage-idle.png",
+      "masterSha256": "d6bc8f45f83e733f7d1a8781300aa804061d7f4182f880697999211ccf212780",
+      "masterWidth": 1254,
+      "masterHeight": 1254,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/sage-sage-idle/sage-sage-idle.transparent.png",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 1159405,
+          "sha256": "bd45edb144d1074cb3c92a9682d89b2b7fef65ee3727467e2b55713ba918e0a4"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/sage-sage-idle/sage-sage-idle.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 149878,
+          "sha256": "4fabfc3501cdd6154dee201d6dfd76fa9ef4e50971db33b507c68c336ca588cc"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/sage-sage-idle/sage-sage-idle.avif",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 108794,
+          "sha256": "ea455140bc06f267c44eec2bb7992971b5edee47dbaef35697b1ad6621a6d976"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/sage-sage-idle/sage-sage-idle-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 653,
+          "sha256": "1e87cbb4b5fa4cca01b3ca753c5e2452e7700de5eab9c4a4ba2ea6380165ecea"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/sage-sage-idle/sage-sage-idle-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1157,
+          "sha256": "1c460cc35f80f871526e5cde29216cb57d45dd8fd00ef27d41a7edaf44e4c9f8"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/sage-sage-idle/sage-sage-idle-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1783,
+          "sha256": "cf16a4c4af4327b52f3c9d793a02a2115d3d474995fa3357b5e5cd038c16e1a4"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/sage-sage-idle/sage-sage-idle-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 5545,
+          "sha256": "a9259fefbd182aae0389bcfe2142f68124e3392fbbb6dc452b68707214dd612c"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/sage-sage-idle/sage-sage-idle-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 18856,
+          "sha256": "897dbc4178e9cf82d03a04e3b1d613bb9ee9fc42970d5561ad4d2f8ae3c22f76"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/sage-sage-idle/sage-sage-idle-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 64613,
+          "sha256": "d1be2afaaa1b534686604bda91c1de7f5f32024e1e49692bd78bc90d2d96f7ed"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/sage-sage-idle/sage-sage-idle-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 224855,
+          "sha256": "95e9677b43cb4d79da43d9d397ccfa81b5c20985022f4c5f251f3e276397cea1"
+        }
+      ]
+    },
+    {
+      "id": "sage-sage-listening",
+      "master": "assets/production/masters/sage/sage-listening.png",
+      "masterSha256": "92756cb20ab958edd9b35ae23c07378af7d1b1d8bae7c4067ee3c802f336dc98",
+      "masterWidth": 1254,
+      "masterHeight": 1254,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/sage-sage-listening/sage-sage-listening.transparent.png",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 1281012,
+          "sha256": "af4b8f482542ebaad2c1b9e06aba24748fb42af99f57ddfbf1618b67dd52c72d"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/sage-sage-listening/sage-sage-listening.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 115156,
+          "sha256": "390bd0761beaa07edc446eeb48f9f578ed1f201ce834b32eda935085b54cf5f4"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/sage-sage-listening/sage-sage-listening.avif",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 75029,
+          "sha256": "dc102f2ef4c8089ced1e6a2e248ad5d2a7b92c4a3593c3a1b3c4a8eb2c6427a6"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/sage-sage-listening/sage-sage-listening-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 700,
+          "sha256": "59655d8a9122a8bb2395a58984cef54d3e8ce99936404725127a6eb813f0f525"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/sage-sage-listening/sage-sage-listening-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1227,
+          "sha256": "fd31e2eef673803d4115f84fe6ad7570e3a2f946e9462b091d3897156675a062"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/sage-sage-listening/sage-sage-listening-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1889,
+          "sha256": "f1566f332f59a60b84993cbf06ac26ca495fdb6e4caa9be44660d28ff71ee307"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/sage-sage-listening/sage-sage-listening-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 5934,
+          "sha256": "1be57df533f7355e751b1fffdbd1917e1fc7bb442079b588617b70cc71c5ee6a"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/sage-sage-listening/sage-sage-listening-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 20099,
+          "sha256": "1a19becc8d6c6383c984db4ba7aa972a2177dd1224d3a59e961cb0982189aad9"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/sage-sage-listening/sage-sage-listening-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 69060,
+          "sha256": "2799687cac96326a34a8c7322db79851ffa736493857792ade1006970bb75dcc"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/sage-sage-listening/sage-sage-listening-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 243353,
+          "sha256": "8d3226654259636637c79e47775105c849f5aaebedd39d5f614f724faf1789fa"
+        }
+      ]
+    },
+    {
+      "id": "sage-sage-paused",
+      "master": "assets/production/masters/sage/sage-paused.png",
+      "masterSha256": "88f4327404ee053562eabca1945227c471db88585cadb98f8ae8d320af564d84",
+      "masterWidth": 1254,
+      "masterHeight": 1254,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/sage-sage-paused/sage-sage-paused.transparent.png",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 859624,
+          "sha256": "f895b6e3f2672dded906189cf6e14306403ce50a8cc80a0e4ea9668bf3556735"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/sage-sage-paused/sage-sage-paused.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 85832,
+          "sha256": "51ac43dbb934695b056008f46df9454f45243dc9cddccc51647c2fcdc6d08e4a"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/sage-sage-paused/sage-sage-paused.avif",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 57290,
+          "sha256": "9842168d464d46487af684f1fd0202e1e7083b5369175163852dcf31bf9759af"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/sage-sage-paused/sage-sage-paused-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 546,
+          "sha256": "b8ec0218bd947bd5224d8fe93c5bf40f2a380300e523c070564178b941873632"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/sage-sage-paused/sage-sage-paused-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 917,
+          "sha256": "5b688ccb68c226b220544719f0c303a834fad98666d860f784fcb9005a3d39a1"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/sage-sage-paused/sage-sage-paused-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1409,
+          "sha256": "a0b45ed0921b455ee3b5234a257aef985c177518a26ae92ea20d080f3df9f678"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/sage-sage-paused/sage-sage-paused-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 4081,
+          "sha256": "4296362eed302cb02e6803d221878ba31f71eee3b19ce353568dbadea51dceb4"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/sage-sage-paused/sage-sage-paused-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 13689,
+          "sha256": "3be431a555dc1021b69cfcea32e9f97aef45ad531c668903c1a07a9b631a62cc"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/sage-sage-paused/sage-sage-paused-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 47652,
+          "sha256": "fcd1578190344bc330df60d71ed8064ca3858ebe4760183bd8716d2c2f3b3687"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/sage-sage-paused/sage-sage-paused-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 166589,
+          "sha256": "310d88925d75d185a6f7d29a3a2fbef58e62a7400795f319d7cef1ab52f84bb7"
+        }
+      ]
+    },
+    {
+      "id": "sage-sage-planning",
+      "master": "assets/production/masters/sage/sage-planning.png",
+      "masterSha256": "569888ec978e05dc45371a0b07f38bad452f887d16ee8c99f72fea1a377e21fe",
+      "masterWidth": 1254,
+      "masterHeight": 1254,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/sage-sage-planning/sage-sage-planning.transparent.png",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 1071331,
+          "sha256": "c27cbd9c33ca27fcdf5858ece927ac7fb4f3494b095d833833e715228aa2ebc5"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/sage-sage-planning/sage-sage-planning.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 103752,
+          "sha256": "9bf493a2c04db7dd6c4fa2da859352ec90b0c380f3837b058fd4b4d23d8babc9"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/sage-sage-planning/sage-sage-planning.avif",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 66820,
+          "sha256": "831890e26cd5fced6a6850864777435e1632977d3af6cd3dfa616847a52650aa"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/sage-sage-planning/sage-sage-planning-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 660,
+          "sha256": "2e52237edca8eca548c7ce45903cf2ebba155084d76e951c61016405ecbd16fc"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/sage-sage-planning/sage-sage-planning-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1153,
+          "sha256": "2067799355c27a5da400336fca2da11a981d28ca51b104fc691c24e2860b29ca"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/sage-sage-planning/sage-sage-planning-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1735,
+          "sha256": "a35edafff77a2b7739060d58f83b4d56c71d27a82c19d16c441dfe8d12c3770f"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/sage-sage-planning/sage-sage-planning-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 5309,
+          "sha256": "c7e94505b0fbc33069eccb8839234b805b3cb561943c0c065bff0f047e809b05"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/sage-sage-planning/sage-sage-planning-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 17628,
+          "sha256": "c1e3529b33d1b47321ccadc2e91c3d97f682cf59f6d8f4d41753ff9b9efc7280"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/sage-sage-planning/sage-sage-planning-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 60403,
+          "sha256": "55591bc9516d6a21d749547c626a04213b99c60c08520cfd6c8eeb4cf212de9d"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/sage-sage-planning/sage-sage-planning-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 207867,
+          "sha256": "034350c2740a3e338faf63b88e86a029f0c68edccd19ef84d12bdcb41551493c"
+        }
+      ]
+    },
+    {
+      "id": "sage-sage-recovery",
+      "master": "assets/production/masters/sage/sage-recovery.png",
+      "masterSha256": "9cc4668caa394c366561dc8081241d03b7acf179dc8f0b466078de4c12d0db55",
+      "masterWidth": 1254,
+      "masterHeight": 1254,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/sage-sage-recovery/sage-sage-recovery.transparent.png",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 1326155,
+          "sha256": "89d6676588f92595391dd62032c2c296686af72f0a51ebae325410c22ebcfbdb"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/sage-sage-recovery/sage-sage-recovery.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 144124,
+          "sha256": "a2bd8278b720d2047c70281a804a124f78af0210efa7626153c6f90b17414a31"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/sage-sage-recovery/sage-sage-recovery.avif",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 89832,
+          "sha256": "86aeac21670fd6c197611cfc0f3005fc1c6fd5d8a88d8dbeab2b50103435aac0"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/sage-sage-recovery/sage-sage-recovery-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 756,
+          "sha256": "4ba40039f4b1e4958732951ae3e113ddd12f90b90c6eba9e5e38dfdacefd6b2d"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/sage-sage-recovery/sage-sage-recovery-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1328,
+          "sha256": "4f63aca03c8a393a7f55e810f42900cedfe271e60bd23dfb7885aab8fb49fa65"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/sage-sage-recovery/sage-sage-recovery-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 2081,
+          "sha256": "2ffa80a37db6454ecdd3fefd7110e9ad4ffbe92d4dd03388d8901012ec3a9594"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/sage-sage-recovery/sage-sage-recovery-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6408,
+          "sha256": "cf47372237e87e5afeaeebb9c63fa46dca790ceab3223cc1e57f8484ae7215e4"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/sage-sage-recovery/sage-sage-recovery-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 21355,
+          "sha256": "c8a07469c17500110b03b1144623bac4f4f5612bbcc44874637f8381b8df5bed"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/sage-sage-recovery/sage-sage-recovery-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 72412,
+          "sha256": "88589e5492d34717df78198a81ebbdd9fc8966387f98a5f6439561b6fc4b9434"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/sage-sage-recovery/sage-sage-recovery-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 251130,
+          "sha256": "3a61facecc5348dde07e970ab172c938a7b68550876c3698641e8a999f84c15b"
+        }
+      ]
+    },
+    {
+      "id": "sage-sage-researching",
+      "master": "assets/production/masters/sage/sage-researching.png",
+      "masterSha256": "caeb28343e96fa525ea98c950fc44b9a6a8716714a3da47b053adb2506f66501",
+      "masterWidth": 1254,
+      "masterHeight": 1254,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/sage-sage-researching/sage-sage-researching.transparent.png",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 1307231,
+          "sha256": "02d0527ec444c9ed04c131898b6ca5800e7124e7f29f63af47b215156fb584f1"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/sage-sage-researching/sage-sage-researching.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 134974,
+          "sha256": "937b9f32b8d7464b81466551afa17cd71e2fb0a6bfb8bcd19b3cc6e809ac4577"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/sage-sage-researching/sage-sage-researching.avif",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 86129,
+          "sha256": "34c87cd8425d11dbd0ad8a8abcd2951091a8477a0d49ccf7cde5b3844bc68e59"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/sage-sage-researching/sage-sage-researching-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 768,
+          "sha256": "1a7860d2c80422b071caf2ff80bf0642b6698105a2cac9c23c1d49e9f1b82fd1"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/sage-sage-researching/sage-sage-researching-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1350,
+          "sha256": "46d63b17d962cff5dd3460c07bbf8cc137adc67d11e699f81f806978cc53e7ef"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/sage-sage-researching/sage-sage-researching-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 2085,
+          "sha256": "91301269524ad3ab31e44c149d3dedd186d9e2e624c2201c7f6339be4bda2b05"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/sage-sage-researching/sage-sage-researching-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6402,
+          "sha256": "7dfd220949ad5cee776927507d448051c92a01ffd6baffeab6ad9ed3bb322621"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/sage-sage-researching/sage-sage-researching-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 21615,
+          "sha256": "fa0e41e21e941238c6d54b5998f0f15ded800d02a2e5a6b8571d1511bd3c1b52"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/sage-sage-researching/sage-sage-researching-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 72994,
+          "sha256": "2fccf0a18978c0c073f323150d351021447513a766d1b1a919ff360cab5b6ebf"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/sage-sage-researching/sage-sage-researching-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 251641,
+          "sha256": "2c947a0da43ad9d28a6e403706acc1c4ee06a4f5f52ee77e3c52d03b110f0862"
+        }
+      ]
+    },
+    {
+      "id": "sage-sage-success",
+      "master": "assets/production/masters/sage/sage-success.png",
+      "masterSha256": "6af941e7710ff5a6c6243e869ce72b5b777b103ef6c53f4a1c62ab72dcf9d5bc",
+      "masterWidth": 1254,
+      "masterHeight": 1254,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/sage-sage-success/sage-sage-success.transparent.png",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 1165077,
+          "sha256": "dd7d02aada60d2c647b2bde4829fdfdd3316dd2e3f2ea62d5b45d9f0265deb63"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/sage-sage-success/sage-sage-success.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 118080,
+          "sha256": "585eb61e6dc6887dedf8189767f40298a977c5d800322d9120976a7f884acd30"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/sage-sage-success/sage-sage-success.avif",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 75353,
+          "sha256": "f86beb8113f33e992f8f051c7f5dd26c6538b9cd0f41646f4f986a2e8f7ba1a9"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/sage-sage-success/sage-sage-success-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 656,
+          "sha256": "d721f1e98244c0339808e5955ca2eb313709bedd6e08e4f2d4c27080639a64b2"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/sage-sage-success/sage-sage-success-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1207,
+          "sha256": "6de785abedbf25e4d97032a4ea6fc4e5fde8a2bba46f086bd95d0456641aa01d"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/sage-sage-success/sage-sage-success-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1844,
+          "sha256": "bb80bbd64277e2c7a0e38364d6fe126c61307f4b6308096386084a7eeb72d0da"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/sage-sage-success/sage-sage-success-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 5597,
+          "sha256": "fa5c04ee2c853c0bda443ae9bf5d3eb6f6541d74fc52420910b2efc3aa87b868"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/sage-sage-success/sage-sage-success-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 18801,
+          "sha256": "e31ca7b80b0e89b3887368ea627954a6fc0202d00cea772f0aec70b7a955c198"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/sage-sage-success/sage-sage-success-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 63841,
+          "sha256": "cd8391e0869381587851d7c791262cd932a38e028eff8f1b3c7a32c62a51d9b0"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/sage-sage-success/sage-sage-success-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 221516,
+          "sha256": "c9b0cfe27e4c10e8cf39c748a90b33dc19c8cf09148bda953f2c8bb1f1f7aa5b"
+        }
+      ]
+    },
+    {
+      "id": "sage-sage-warning",
+      "master": "assets/production/masters/sage/sage-warning.png",
+      "masterSha256": "b888cf2dc76d6bdd95af71c325bc19284b2b3264fcc15c601996b5267fee9879",
+      "masterWidth": 1254,
+      "masterHeight": 1254,
+      "files": [
+        {
+          "kind": "transparent-png",
+          "path": "assets/production/generated/sage-sage-warning/sage-sage-warning.transparent.png",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 1217857,
+          "sha256": "775bfabe26a7f84a8e7f28245ac836e42a6d45789bb5147a7779078e870b4a70"
+        },
+        {
+          "kind": "webp",
+          "path": "assets/production/generated/sage-sage-warning/sage-sage-warning.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 121292,
+          "sha256": "ecbff7f074c3f0924bc0faf60e626f4e8b899837ecfc80a877a3b1dda2b447e2"
+        },
+        {
+          "kind": "avif",
+          "path": "assets/production/generated/sage-sage-warning/sage-sage-warning.avif",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 76815,
+          "sha256": "8630649d5ff147b7972ab4cfbb6da688b36d1a626ab05e2ef6d330f314d974e6"
+        },
+        {
+          "kind": "size-png",
+          "size": 16,
+          "path": "assets/production/generated/sage-sage-warning/sage-sage-warning-16.png",
+          "width": 16,
+          "height": 16,
+          "bytes": 709,
+          "sha256": "243c2583c8e66ada14bb1e2b55866fad7ec1decdf7925af2552d7c2627ff8746"
+        },
+        {
+          "kind": "size-png",
+          "size": 24,
+          "path": "assets/production/generated/sage-sage-warning/sage-sage-warning-24.png",
+          "width": 24,
+          "height": 24,
+          "bytes": 1279,
+          "sha256": "830d253251943eafdee3b0ec0ed9c3cd1fcb3e86d7a6696df6b80d71fa7e028c"
+        },
+        {
+          "kind": "size-png",
+          "size": 32,
+          "path": "assets/production/generated/sage-sage-warning/sage-sage-warning-32.png",
+          "width": 32,
+          "height": 32,
+          "bytes": 1939,
+          "sha256": "c01aaf143119cb3d01f931da9ba986c945ba7df2215c2f709c288edc959809ca"
+        },
+        {
+          "kind": "size-png",
+          "size": 64,
+          "path": "assets/production/generated/sage-sage-warning/sage-sage-warning-64.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6008,
+          "sha256": "c59b2cff03654add98dd6340d6028c4a803cf00b8e66a8ba688ae199e9bc36d8"
+        },
+        {
+          "kind": "size-png",
+          "size": 128,
+          "path": "assets/production/generated/sage-sage-warning/sage-sage-warning-128.png",
+          "width": 128,
+          "height": 128,
+          "bytes": 19806,
+          "sha256": "83be8e8e11434d68a473db00a04b0e3b5edd3bb8b7b0ad3692213bdaf2ef6a8f"
+        },
+        {
+          "kind": "size-png",
+          "size": 256,
+          "path": "assets/production/generated/sage-sage-warning/sage-sage-warning-256.png",
+          "width": 256,
+          "height": 256,
+          "bytes": 67274,
+          "sha256": "6331b005afb0e1e4fe13ce8a8097ff99b960aefcbbd78add398389471560d98e"
+        },
+        {
+          "kind": "size-png",
+          "size": 512,
+          "path": "assets/production/generated/sage-sage-warning/sage-sage-warning-512.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 232975,
+          "sha256": "b1a3d5e26e4bca6717b5584a13771beb2a9b645b0c3badcd464242315f3853ef"
+        }
+      ]
+    }
+  ]
+}

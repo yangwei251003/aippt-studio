@@ -1,0 +1,18 @@
+{
+  "jsTsParsed": 173,
+  "decodedLiterals": 15144,
+  "rawPatternFindings": 2,
+  "distinctReviewedSyntheticFixtures": 1,
+  "unreviewedFindings": 0,
+  "structuredFindings": 0,
+  "imageMetadataReads": 74,
+  "visuallyReviewedUniqueRasterImages": 70,
+  "realUserCredentialsFound": false,
+  "reviewedFixture": {
+    "file": "apps/api/tests/resources.test.ts",
+    "line": 57,
+    "sha256": "f0c280a8e15de7d38d514983a25c6b8b40899929b356f49e47c1922f810f87d1",
+    "reason": "Deliberate synthetic secret-rejection test; source unchanged."
+  },
+  "note": "Upstream public copyright contacts are retained. No personal runtime database or real model configuration is bundled."
+}

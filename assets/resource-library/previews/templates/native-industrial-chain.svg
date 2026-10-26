@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">智造供应链模板预览</title><desc id="desc">AIPPT Studio 原创 native 模板预览</desc>
+<rect width="1600" height="900" fill="#F2F3F5"/><path d="M0 680 C300 570,560 820,900 620 S1320 500,1600 690 V900 H0Z" fill="#3D586B" opacity=".17"/>
+<circle cx="1260" cy="330" r="150" fill="#E67E22" opacity=".9"/><rect x="1040" y="540" width="430" height="18" fill="#3D586B"/><rect x="1040" y="590" width="320" height="10" fill="#20262D" opacity=".45"/>
+<text x="110" y="130" fill="#3D586B" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5">NATIVE / 11</text>
+<text x="110" y="360" fill="#20262D" font-family="'Microsoft YaHei',Arial,sans-serif" font-size="92" font-weight="700">智造供应链</text><text x="116" y="435" fill="#20262D" opacity=".68" font-family="Arial,sans-serif" font-size="28">AIPPT ORIGINAL DESIGN SYSTEM</text>
+<path d="M110 520 H720" stroke="#20262D" stroke-width="3"/><path d="M110 555 H520" stroke="#20262D" stroke-width="14" opacity=".2"/></svg>

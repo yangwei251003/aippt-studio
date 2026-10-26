@@ -1,0 +1,14 @@
+"use client";
+
+import { useEffect, useRef, useState } from "react";
+import { Group, Layer, Rect, Stage, Text } from "react-konva";
+import type { KonvaEventObject } from "konva/lib/Node";
+
+type CanvasSlide = { id:string; title:string; accent:string; elements:Array<{id:string;kind:"text"|"shape"|"image";x:number;y:number;w:number;h:number;value?:string;color?:string;size?:number}> };
+
+export default function InfiniteCanvas({slides}:{slides:CanvasSlide[]}) {
+  const host=useRef<HTMLDivElement>(null); const [size,setSize]=useState({width:900,height:620}); const [camera,setCamera]=useState({x:48,y:48,scale:.36});
+  useEffect(()=>{if(!host.current)return;const observer=new ResizeObserver(([entry])=>{if(entry)setSize({width:entry.contentRect.width,height:Math.max(520,entry.contentRect.height)})});observer.observe(host.current);return()=>observer.disconnect()},[]);
+  const wheel=(event:KonvaEventObject<WheelEvent>)=>{event.evt.preventDefault();const stage=event.target.getStage();const pointer=stage?.getPointerPosition();if(!pointer)return;const direction=event.evt.deltaY>0?-1:1;const nextScale=Math.max(.12,Math.min(1.5,camera.scale*(direction>0?1.12:.89)));const world={x:(pointer.x-camera.x)/camera.scale,y:(pointer.y-camera.y)/camera.scale};setCamera({scale:nextScale,x:pointer.x-world.x*nextScale,y:pointer.y-world.y*nextScale})};
+  return <div ref={host} style={{height:"calc(100vh - 210px)",minHeight:520,overflow:"hidden",backgroundColor:"#080b09",backgroundImage:"radial-gradient(#313a33 1px, transparent 1px)",backgroundSize:"24px 24px",border:"1px solid #303932"}}><Stage width={size.width} height={size.height} draggable x={camera.x} y={camera.y} scaleX={camera.scale} scaleY={camera.scale} onWheel={wheel} onDragEnd={event=>setCamera(current=>({...current,x:event.target.x(),y:event.target.y()}))}><Layer>{slides.map((slide,index)=>{const x=(index%3)*1460;const y=Math.floor(index/3)*900;return <Group key={slide.id} x={x} y={y}><Rect width={1280} height={720} fill="#0A0A0A" stroke={slide.accent||"#B7F34A"} strokeWidth={6} shadowColor="#000" shadowBlur={40} shadowOpacity={.5}/><Text text={`${String(index+1).padStart(2,"0")}  ${slide.title}`} y={-58} width={1280} fill="#aab4ac" fontSize={28}/>{slide.elements.map(element=>element.kind==="text"?<Text key={element.id} x={element.x} y={element.y} width={element.w} height={element.h} text={element.value||""} fill={element.color||"#F4F4EF"} fontSize={element.size||20} wrap="word"/>:<Rect key={element.id} x={element.x} y={element.y} width={element.w} height={element.h} fill={element.kind==="image"?"#252b27":element.color||slide.accent} cornerRadius={18}/>)}</Group>})}</Layer></Stage><div style={{position:"absolute",right:32,bottom:24,padding:"8px 11px",color:"#B7F34A",background:"#111613",border:"1px solid #364039",fontSize:12}}>缩放 {Math.round(camera.scale*100)}% · 滚轮缩放 · 拖动画布</div></div>;
+}

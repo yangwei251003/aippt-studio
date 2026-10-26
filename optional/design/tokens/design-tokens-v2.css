@@ -1,0 +1,26 @@
+:root {
+  --aippt-navy-950: #061437;
+  --aippt-navy-900: #071B46;
+  --aippt-navy-800: #0B2B66;
+  --aippt-electric-blue: #176BFF;
+  --aippt-signal-blue: #2D8CFF;
+  --aippt-pearl-cyan: #22D9FF;
+  --aippt-soft-cyan: #94EEFF;
+  --aippt-paper: #F7FAFF;
+  --aippt-cool-gray: #B9C7E6;
+  --aippt-signal-orange: #FF8A2A;
+  --aippt-controlled-violet: #776BFF;
+  --aippt-success: #20D7A5;
+  --aippt-warning: #FFB547;
+  --aippt-danger: #FF5E71;
+  --aippt-font-ui: Inter, "Noto Sans CJK SC", system-ui, sans-serif;
+  --aippt-font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+  --aippt-radius-sm: 10px;
+  --aippt-radius-md: 16px;
+  --aippt-radius-lg: 24px;
+  --aippt-shadow-panel: 0 20px 64px rgba(0, 0, 0, .28);
+  --aippt-motion-fast: 160ms;
+  --aippt-motion-normal: 240ms;
+  --aippt-motion-panel: 360ms;
+  --aippt-motion-cinematic: 700ms;
+}

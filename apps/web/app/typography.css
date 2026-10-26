@@ -1,0 +1,85 @@
+@font-face {
+  font-family: "AIPPT Sans";
+  src: url("/fonts/aippt-misans-regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AIPPT Sans";
+  src: url("/fonts/aippt-misans-semibold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AIPPT Sans";
+  src: url("/fonts/aippt-misans-bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AIPPT Serif";
+  src: url("/fonts/aippt-source-han-serif-medium.otf") format("opentype");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AIPPT Display";
+  src: url("/fonts/aippt-smiley-sans-oblique.ttf") format("truetype");
+  font-style: oblique;
+  font-weight: 400;
+  font-display: swap;
+}
+
+:root {
+  --font-sans: "AIPPT Sans", "Source Han Sans SC", "Noto Sans CJK SC", "Microsoft YaHei", system-ui, sans-serif;
+  --font-serif: "AIPPT Serif", "Source Han Serif SC", "Noto Serif CJK SC", "Songti SC", serif;
+  --font-display: "AIPPT Display", "AIPPT Sans", "Microsoft YaHei", sans-serif;
+  --font-mono: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+
+  --type-display-xl: clamp(3rem, 6.4vw, 6.6rem);
+  --type-display-l: clamp(2.5rem, 5vw, 5.25rem);
+  --type-h1: clamp(2.15rem, 4vw, 4.25rem);
+  --type-h2: clamp(1.85rem, 3vw, 3.25rem);
+  --type-h3: clamp(1.25rem, 1.8vw, 1.75rem);
+  --type-lead: clamp(1rem, 1.3vw, 1.22rem);
+  --type-body: 0.9375rem;
+  --type-ui: 0.8125rem;
+  --type-caption: 0.6875rem;
+
+  --leading-display: 0.94;
+  --leading-heading: 1.08;
+  --leading-body: 1.72;
+  --tracking-display: -0.06em;
+  --tracking-heading: -0.035em;
+}
+
+html,
+body {
+  font-family: var(--font-sans);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --type-display-xl: clamp(2.75rem, 13.4vw, 4.8rem);
+    --type-display-l: clamp(2.3rem, 11vw, 4rem);
+    --type-h1: clamp(2rem, 9.5vw, 3.5rem);
+    --type-h2: clamp(1.75rem, 8vw, 2.8rem);
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "AIPPT Studio public source release",
+  "version": "3.2.0-open",
+  "sourceLabel": "AI演示智能工作台2.0 / Fast Build Package 3.2.0",
+  "status": "development MVP",
+  "entryDocument": "README.md",
+  "backendHostedOnPages": false,
+  "syntheticTestOnly": true,
+  "originalLocalProjectSafeToDelete": false,
+  "excluded": [
+    "personal runtime database and objects",
+    "real model configuration and secrets",
+    "third-party standalone component reference bundle",
+    "unknown-rights reference images/fonts",
+    "dependency/build/browser caches",
+    "old local outputs and private originals"
+  ]
+}

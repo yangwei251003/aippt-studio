@@ -1,0 +1,36 @@
+{
+  "name": "aippt-fast-build",
+  "version": "3.2.0",
+  "private": true,
+  "packageManager": "pnpm@10.33.2",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "assets:build": "node scripts/build-folded-signal.mjs && node scripts/build-assets.mjs",
+    "predev": "pnpm assets:build",
+    "dev": "concurrently -n WEB,API -c cyan,magenta \"pnpm --filter @aippt/web dev\" \"pnpm --filter @aippt/api dev\"",
+    "dev:web": "pnpm --filter @aippt/web dev",
+    "dev:api": "pnpm --filter @aippt/api dev",
+    "dev:worker": "pnpm --filter @aippt/worker dev",
+    "prebuild": "pnpm assets:build",
+    "build": "pnpm -r --if-present build",
+    "lint": "pnpm -r --if-present lint",
+    "typecheck": "pnpm -r --if-present typecheck",
+    "test": "pnpm -r --if-present test",
+    "test:e2e": "node --test --test-concurrency=1 tests/e2e/p1-workbench.test.mjs tests/e2e/visual-smoke.test.mjs",
+    "test:projects:live": "node scripts/acceptance/project-service-smoke.mjs",
+    "test:security": "pnpm --filter @aippt/api exec vitest run tests/pptx-remote-image-security.test.ts tests/workflow.integration.test.ts",
+    "sbom": "node scripts/generate-sbom.mjs",
+    "verify:package": "python scripts/validate_package.py",
+    "verify": "pnpm verify:package && pnpm lint && pnpm typecheck && pnpm test && pnpm test:security && pnpm build && pnpm test:e2e",
+    "licenses:generate": "node scripts/generate-third-party-notices.mjs"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.5",
+    "sharp": "0.35.5",
+    "typescript": "^7.0.2",
+    "vitest": "4.1.12"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}

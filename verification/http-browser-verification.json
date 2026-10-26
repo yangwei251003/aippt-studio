@@ -1,0 +1,72 @@
+{
+  "fixtureIdentity": "Synthetic test fixtures; no real model, customer data or payment",
+  "checks": [
+    {
+      "name": "HTTP fake-fixture generation",
+      "status": 201,
+      "slides": 8
+    },
+    {
+      "name": "HTTP PPTX export",
+      "slides": 8,
+      "bytes": 123687,
+      "sha256": "2579ab8cc1080fe9febeadde37a33815fa4b93ef9983c360267c56495652b220"
+    },
+    {
+      "name": "Actual Chromium PDF render",
+      "bytes": 126963,
+      "sha256": "5b8fa136e69c3b66abf9b1782dfe6be4e24eebe31663fc238078d353f1c68dac"
+    },
+    {
+      "name": "Actual Chromium PNG archive",
+      "images": 8,
+      "bytes": 380025,
+      "sha256": "30e917186dc72a5eeac507b6bd1ca152192ef1045c911af53390957b5d0b6edd"
+    },
+    {
+      "name": "Browser home",
+      "width": 1592,
+      "httpStatus": 200,
+      "horizontalOverflow": false
+    },
+    {
+      "name": "Browser editor",
+      "width": 1592,
+      "httpStatus": 200,
+      "horizontalOverflow": false
+    },
+    {
+      "name": "Browser resources",
+      "width": 1592,
+      "httpStatus": 200,
+      "horizontalOverflow": false
+    },
+    {
+      "name": "Browser home",
+      "width": 390,
+      "httpStatus": 200,
+      "horizontalOverflow": false
+    },
+    {
+      "name": "Browser editor",
+      "width": 390,
+      "httpStatus": 200,
+      "horizontalOverflow": false
+    },
+    {
+      "name": "Browser resources",
+      "width": 390,
+      "httpStatus": 200,
+      "horizontalOverflow": false
+    }
+  ],
+  "unconfiguredHealth": {
+    "ok": true,
+    "generationReady": false,
+    "service": "aippt-api",
+    "model": "unconfigured"
+  },
+  "browserScriptErrors": [],
+  "externalBrowserRequests": [],
+  "status": "PASS"
+}

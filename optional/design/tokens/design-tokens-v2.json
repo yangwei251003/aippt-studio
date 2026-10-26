@@ -1,0 +1,127 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "name": "AIPPT Visual V2",
+  "color": {
+    "navy": {
+      "950": {
+        "$value": "#061437"
+      },
+      "900": {
+        "$value": "#071B46"
+      },
+      "800": {
+        "$value": "#0B2B66"
+      }
+    },
+    "blue": {
+      "electric": {
+        "$value": "#176BFF"
+      },
+      "signal": {
+        "$value": "#2D8CFF"
+      }
+    },
+    "cyan": {
+      "pearl": {
+        "$value": "#22D9FF"
+      },
+      "soft": {
+        "$value": "#94EEFF"
+      }
+    },
+    "paper": {
+      "$value": "#F7FAFF"
+    },
+    "gray": {
+      "cool": {
+        "$value": "#B9C7E6"
+      }
+    },
+    "orange": {
+      "signal": {
+        "$value": "#FF8A2A"
+      }
+    },
+    "violet": {
+      "controlled": {
+        "$value": "#776BFF"
+      }
+    },
+    "semantic": {
+      "success": {
+        "$value": "#20D7A5"
+      },
+      "warning": {
+        "$value": "#FFB547"
+      },
+      "danger": {
+        "$value": "#FF5E71"
+      }
+    }
+  },
+  "font": {
+    "ui": {
+      "$value": "Inter, 'Noto Sans CJK SC', system-ui, sans-serif"
+    },
+    "display": {
+      "$value": "'Noto Sans CJK SC', Inter, system-ui, sans-serif"
+    },
+    "mono": {
+      "$value": "ui-monospace, SFMono-Regular, Menlo, monospace"
+    }
+  },
+  "radius": {
+    "sm": {
+      "$value": "10px"
+    },
+    "md": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "24px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "space": {
+    "1": {
+      "$value": "4px"
+    },
+    "2": {
+      "$value": "8px"
+    },
+    "3": {
+      "$value": "12px"
+    },
+    "4": {
+      "$value": "16px"
+    },
+    "6": {
+      "$value": "24px"
+    },
+    "8": {
+      "$value": "32px"
+    },
+    "12": {
+      "$value": "48px"
+    },
+    "16": {
+      "$value": "64px"
+    }
+  },
+  "motion": {
+    "fast": {
+      "$value": "160ms"
+    },
+    "normal": {
+      "$value": "240ms"
+    },
+    "panel": {
+      "$value": "360ms"
+    },
+    "cinematic": {
+      "$value": "700ms"
+    }
+  }
+}

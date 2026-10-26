@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "1.0.0",
+  "title": "AI 视觉巡检客户提案",
+  "taskSummary": {
+    "goal": "向制造业客户介绍 AI 视觉巡检解决方案并推动预约技术交流",
+    "audience": [
+      "生产负责人",
+      "质量负责人",
+      "信息化负责人"
+    ],
+    "desiredAction": "预约现场诊断与技术演示"
+  },
+  "coreClaim": "用可部署的 AI 视觉能力降低人工漏检风险，并让质量问题更早被发现。",
+  "slides": [
+    {
+      "order": 1,
+      "purpose": "建立价值主张",
+      "title": "让质量问题更早被看见",
+      "layoutFamily": "value-proposition-cover"
+    },
+    {
+      "order": 2,
+      "purpose": "说明三项问题",
+      "title": "传统巡检正面临三项挑战",
+      "layoutFamily": "three-problems"
+    },
+    {
+      "order": 3,
+      "purpose": "对比传统和 AI",
+      "title": "从抽检与事后发现，转向全量与实时预警",
+      "layoutFamily": "comparison-left-right"
+    },
+    {
+      "order": 4,
+      "purpose": "解释方案结构",
+      "title": "一套从采集到闭环的视觉巡检架构",
+      "layoutFamily": "architecture-basic"
+    },
+    {
+      "order": 5,
+      "purpose": "推动下一步",
+      "title": "用 4 周试点验证价值",
+      "layoutFamily": "summary-cta"
+    }
+  ],
+  "evidencePlan": [
+    {
+      "claim": "人工巡检受到疲劳和标准不一致影响",
+      "status": "available",
+      "source": "用户资料"
+    },
+    {
+      "claim": "漏检率改善幅度",
+      "status": "missing",
+      "handling": "不编造，使用占位或请求数据"
+    }
+  ],
+  "visualDirection": {
+    "name": "AIPPT Visual V2",
+    "density": "business",
+    "tone": [
+      "专业",
+      "可信",
+      "清晰"
+    ]
+  },
+  "estimated": {
+    "slides": 5,
+    "credits": 45,
+    "images": 2,
+    "diagrams": 1
+  }
+}

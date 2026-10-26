@@ -1,0 +1,64 @@
+/* UI interaction reference: gharsh11032000 / Uiverse. MIT; see licenses/uiverse/LICENSE.
+ * Local application styling and React integration; not claimed as solely original. */
+.action {
+  --specular-x: 50%;
+  --specular-y: 50%;
+  --specular-angle: 110deg;
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  transform: translateZ(0);
+  transition:
+    transform 160ms cubic-bezier(.16, 1, .3, 1),
+    border-color 180ms ease,
+    box-shadow 220ms ease,
+    filter 180ms ease;
+}
+
+.action::before,
+.action::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+.action::before {
+  z-index: 0;
+  inset: 0;
+  padding: 1px;
+  border-radius: inherit;
+  background:
+    radial-gradient(circle 52px at var(--specular-x) var(--specular-y), rgba(255,255,255,.98), rgba(210,242,53,.72) 22%, transparent 68%),
+    conic-gradient(from var(--specular-angle), transparent 0 35%, rgba(255,255,255,.72) 45%, rgba(210,242,53,.58) 52%, transparent 63% 100%);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  opacity: .38;
+  transition: opacity 220ms ease;
+}
+
+.action::after {
+  z-index: 0;
+  inset: -70% -42%;
+  background: linear-gradient(108deg, transparent 38%, rgba(255,255,255,.05) 45%, rgba(255,255,255,.28) 50%, rgba(210,242,53,.16) 54%, transparent 62%);
+  transform: translate3d(-55%, 0, 0) rotate(7deg);
+  transition: transform 620ms cubic-bezier(.16, 1, .3, 1), opacity 220ms ease;
+  opacity: .18;
+}
+
+.action > * { position: relative; z-index: 1; }
+.action:hover::before,
+.action:focus-visible::before { opacity: .94; }
+.action:hover::after,
+.action:focus-visible::after { opacity: .8; transform: translate3d(55%, 0, 0) rotate(7deg); }
+.action:hover { transform: translateY(-1px); filter: brightness(1.06); }
+.action:active { transform: scale(.97); }
+.action:focus-visible { outline: 2px solid #d2f235; outline-offset: 3px; }
+.action:disabled { cursor: default; opacity: .52; }
+.action:disabled:hover { transform: none; filter: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  .action { transition: color 120ms ease, background-color 120ms ease, border-color 120ms ease; }
+  .action::after { display: none; }
+  .action:hover { transform: none; }
+}

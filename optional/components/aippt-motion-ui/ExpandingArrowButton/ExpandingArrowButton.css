@@ -1,0 +1,149 @@
+/* UI interaction reference: gharsh11032000 / Uiverse. MIT; see licenses/uiverse/LICENSE.
+ * Local application styling and React integration; not claimed as solely original. */
+.aippt-expanding-button {
+  --button-bg: transparent;
+  --button-ink: #f7faff;
+  --button-accent: #22d9ff;
+  --button-accent-ink: #061437;
+  position: relative;
+  isolation: isolate;
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  overflow: hidden;
+  padding: 0 38px;
+  border: 1px solid color-mix(in srgb, var(--button-accent) 72%, transparent);
+  border-radius: 999px;
+  color: var(--button-ink);
+  background: var(--button-bg);
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--button-accent) 18%, transparent) inset,
+    0 12px 32px color-mix(in srgb, var(--button-accent) 14%, transparent);
+  font: 650 15px/1 system-ui, sans-serif;
+  cursor: pointer;
+  transition:
+    transform 180ms ease,
+    border-radius 420ms cubic-bezier(.23, 1, .32, 1),
+    border-color 240ms ease,
+    box-shadow 240ms ease,
+    color 260ms ease;
+}
+
+.aippt-expanding-button--primary {
+  --button-bg: linear-gradient(90deg, #176bff, #22d9ff);
+  --button-accent: #8cecff;
+  --button-accent-ink: #061437;
+  border-color: transparent;
+}
+
+.aippt-expanding-button--secondary {
+  --button-bg: rgba(6, 20, 55, .58);
+  --button-accent: #4da8ff;
+}
+
+.aippt-expanding-button--orange {
+  --button-bg: linear-gradient(90deg, #ff782a, #ffae45);
+  --button-accent: #ffd29c;
+  --button-accent-ink: #281105;
+  border-color: transparent;
+}
+
+.aippt-expanding-button--danger {
+  --button-accent: #ff5e71;
+}
+
+.aippt-expanding-button__label {
+  position: relative;
+  z-index: 2;
+  transform: translateX(-10px);
+  transition: transform 520ms cubic-bezier(.23, 1, .32, 1);
+}
+
+.aippt-expanding-button__arrow {
+  position: absolute;
+  z-index: 3;
+  width: 21px;
+  fill: currentColor;
+  transition: transform 560ms cubic-bezier(.23, 1, .32, 1), opacity 300ms ease;
+}
+
+.aippt-expanding-button__arrow--outgoing {
+  right: 15px;
+}
+
+.aippt-expanding-button__arrow--incoming {
+  left: 15px;
+  opacity: 0;
+  transform: translateX(-44px);
+}
+
+.aippt-expanding-button__circle {
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+  background: var(--button-accent);
+  opacity: 0;
+  transform: translate(-50%, -50%);
+  transition:
+    width 620ms cubic-bezier(.23, 1, .32, 1),
+    height 620ms cubic-bezier(.23, 1, .32, 1),
+    opacity 240ms ease;
+}
+
+.aippt-expanding-button:hover:not(:disabled) {
+  border-radius: 14px;
+  color: var(--button-accent-ink);
+  box-shadow: 0 0 0 8px transparent;
+}
+
+.aippt-expanding-button:hover:not(:disabled) .aippt-expanding-button__circle {
+  width: min(280px, 130%);
+  height: 280px;
+  opacity: 1;
+}
+
+.aippt-expanding-button:hover:not(:disabled) .aippt-expanding-button__arrow--outgoing {
+  opacity: 0;
+  transform: translateX(44px);
+}
+
+.aippt-expanding-button:hover:not(:disabled) .aippt-expanding-button__arrow--incoming {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.aippt-expanding-button:hover:not(:disabled) .aippt-expanding-button__label {
+  transform: translateX(10px);
+}
+
+.aippt-expanding-button:active:not(:disabled) {
+  transform: scale(.97);
+}
+
+.aippt-expanding-button:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--button-accent) 55%, white);
+  outline-offset: 4px;
+}
+
+.aippt-expanding-button:disabled {
+  cursor: not-allowed;
+  opacity: .52;
+}
+
+.aippt-expanding-button.is-success {
+  --button-bg: linear-gradient(90deg, #17a879, #20d7a5);
+  --button-accent: #b7ffe9;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .aippt-expanding-button,
+  .aippt-expanding-button * {
+    transition-duration: .01ms !important;
+  }
+}

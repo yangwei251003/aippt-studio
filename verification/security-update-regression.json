@@ -1,0 +1,33 @@
+{
+  "verifiedOn": "2026-10-26",
+  "environment": {
+    "os": "Windows",
+    "node": "24.15.0",
+    "pnpm": "10.33.2",
+    "browser": "installed Chrome, isolated headless profile"
+  },
+  "build": "PASS Web/Core/API/Worker",
+  "typecheck": "PASS all workspaces",
+  "existingTests": {
+    "web": 4,
+    "core": 35,
+    "api": 85,
+    "total": 124,
+    "worker": "No test files; not counted"
+  },
+  "existingE2E": {
+    "passed": 11,
+    "failed": 0
+  },
+  "packageAndDocumentFixtures": "PASS",
+  "realHttpAndExport": "PASS; 8-slide PPTX, 8-page PDF, 8 PNG at 1920x1080, six desktop/mobile checks",
+  "protectedFilesUnchanged": 572,
+  "generatedMetadataRefreshed": [
+    "assets/production/manifest.json"
+  ],
+  "businessSourceUiStylesSourceAssetsAndExistingScreenshotsUnchanged": true,
+  "productionAiPaymentCloudServicesVerified": false,
+  "linuxFullBackendVerified": false,
+  "productionSecurityCertified": false,
+  "dependencyAuditHighRecordsRetained": 4
+}

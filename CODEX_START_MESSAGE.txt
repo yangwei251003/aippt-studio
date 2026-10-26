@@ -1,0 +1,1 @@
+请阅读 README_START_HERE.md 和 prompt/CODEX_START_PROMPT_FAST_V3.2.md。先主动补齐视觉资产，再直接开发最小 MVP；减少无用审查和长文档，不要只回复计划。

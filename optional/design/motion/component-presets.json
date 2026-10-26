@@ -1,0 +1,91 @@
+{
+  "Lightfall": {
+    "createCenter": {
+      "colors": [
+        "#2D8CFF",
+        "#22D9FF",
+        "#776BFF",
+        "#FF8A2A"
+      ],
+      "backgroundColor": "#061437",
+      "speed": 0.32,
+      "streakCount": 4,
+      "streakWidth": 0.75,
+      "streakLength": 1.2,
+      "glow": 0.72,
+      "density": 0.45,
+      "twinkle": 0.35,
+      "zoom": 2.6,
+      "backgroundGlow": 0.32,
+      "opacity": 0.38,
+      "mouseStrength": 0.28,
+      "mouseRadius": 0.85,
+      "mouseDampening": 0.18,
+      "dpr": 1.5
+    },
+    "agentStudio": {
+      "colors": [
+        "#176BFF",
+        "#22D9FF",
+        "#94EEFF"
+      ],
+      "backgroundColor": "#071B46",
+      "speed": 0.24,
+      "streakCount": 3,
+      "glow": 0.58,
+      "density": 0.38,
+      "opacity": 0.28,
+      "mouseStrength": 0.18,
+      "dpr": 1.25
+    }
+  },
+  "LineSidebar": {
+    "accentColor": "#22D9FF",
+    "textColor": "#9EB0D4",
+    "markerColor": "#36517F",
+    "proximityRadius": 86,
+    "maxShift": 14,
+    "falloff": "smooth",
+    "markerLength": 42,
+    "tickScale": 0.42,
+    "itemGap": 16,
+    "fontSize": 0.96,
+    "smoothing": 120
+  },
+  "CircularGallery": {
+    "bend": 2.2,
+    "borderRadius": 0.07,
+    "scrollSpeed": 1.25,
+    "scrollEase": 0.035,
+    "textColor": "#F7FAFF"
+  },
+  "FoldText": {
+    "splitBy": "word",
+    "hinge": "top",
+    "duration": 0.68,
+    "stagger": 0.055,
+    "ease": "power3.out",
+    "perspective": 820,
+    "creaseShading": 0.42
+  },
+  "PillNav": {
+    "ease": "power3.out",
+    "baseColor": "rgba(6,20,55,.78)",
+    "pillColor": "#F7FAFF",
+    "hoveredPillTextColor": "#061437",
+    "pillTextColor": "#061437",
+    "initialLoadAnimation": true
+  },
+  "ElasticSlider": {
+    "overshootMax": 36,
+    "spring": {
+      "bounce": 0.38
+    },
+    "useCases": [
+      "pageCount",
+      "density",
+      "zoom",
+      "motionPreview"
+    ]
+  }
+}

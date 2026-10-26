@@ -1,0 +1,26 @@
+{
+  "route": "/aippt-studio/",
+  "checks": [
+    {
+      "width": 1440,
+      "httpStatus": 200,
+      "galleryImages": 3,
+      "readonlyNotice": true,
+      "horizontalOverflow": false,
+      "scriptErrors": [],
+      "httpFailures": [],
+      "externalRequests": []
+    },
+    {
+      "width": 390,
+      "httpStatus": 200,
+      "galleryImages": 3,
+      "readonlyNotice": true,
+      "horizontalOverflow": false,
+      "scriptErrors": [],
+      "httpFailures": [],
+      "externalRequests": []
+    }
+  ],
+  "remotePagesVerified": false
+}

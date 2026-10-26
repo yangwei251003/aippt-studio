@@ -1,0 +1,63 @@
+{
+  "fixtureIdentity": "synthetic local test data",
+  "pdfPages": 8,
+  "pngImages": [
+    {
+      "name": "slide-01.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "slide-02.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "slide-03.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "slide-04.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "slide-05.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "slide-06.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "slide-07.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "slide-08.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    }
+  ],
+  "status": "PASS"
+}

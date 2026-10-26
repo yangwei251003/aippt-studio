@@ -1,0 +1,3 @@
+.card { transform-style: preserve-3d; transform-origin: center; backface-visibility: hidden; }
+.card > * { transform: translateZ(18px); }
+@media (prefers-reduced-motion: reduce) { .card { will-change: auto !important; } }

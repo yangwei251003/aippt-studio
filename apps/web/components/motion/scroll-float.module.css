@@ -1,0 +1,4 @@
+.scrollFloat { overflow: hidden; }
+.text { display: inline-block; }
+.char { display: inline-block; }
+@media (prefers-reduced-motion: reduce) { .char { will-change: auto !important; } }

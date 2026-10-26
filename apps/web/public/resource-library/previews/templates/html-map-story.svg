@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">地图故事模板预览</title><desc id="desc">AIPPT Studio 原创 html 模板预览</desc>
+<rect width="1600" height="900" fill="#EEF3EF"/><path d="M0 680 C300 610,560 820,900 620 S1320 500,1600 690 V900 H0Z" fill="#39755F" opacity=".17"/>
+<circle cx="1330" cy="410" r="168" fill="#E59A44" opacity=".9"/><rect x="1040" y="540" width="430" height="18" fill="#39755F"/><rect x="1040" y="590" width="320" height="10" fill="#18322B" opacity=".45"/>
+<text x="110" y="130" fill="#39755F" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5">HTML / 12</text>
+<text x="110" y="360" fill="#18322B" font-family="'Microsoft YaHei',Arial,sans-serif" font-size="92" font-weight="700">地图故事</text><text x="116" y="435" fill="#18322B" opacity=".68" font-family="Arial,sans-serif" font-size="28">AIPPT ORIGINAL DESIGN SYSTEM</text>
+<path d="M110 520 H720" stroke="#18322B" stroke-width="3"/><path d="M110 555 H520" stroke="#18322B" stroke-width="14" opacity=".2"/></svg>

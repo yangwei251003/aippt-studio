@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0.0",
+  "taskType": "sales-proposal",
+  "creationMode": "collaborative",
+  "language": "zh-CN",
+  "goal": "向制造业客户介绍 AI 视觉巡检解决方案并推动预约技术交流",
+  "audience": [
+    "生产负责人",
+    "质量负责人",
+    "信息化负责人"
+  ],
+  "desiredAction": "预约现场诊断与技术演示",
+  "durationMinutes": 20,
+  "pageRange": {
+    "min": 5,
+    "max": 8
+  },
+  "mustKeep": [
+    "产品名称：PrismInspect",
+    "试点周期：4 周"
+  ],
+  "networkResearch": "ask-before-use",
+  "outputProfiles": [
+    "standard"
+  ]
+}
